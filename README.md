@@ -23,9 +23,9 @@ This academic project focuses on **user-centered UI/UX design, interactive proto
 
 [View Interactive Mobile Prototype on Figma](https://www.figma.com/proto/Gm9e5DSHHw6InpSZOVdZ2G/KrishiBondhu-Mobile-Prototype?node-id=121-92)
 
-### Web Platform
 
-Web prototype link to be added.
+### Web Platform
+[View Interactive Web Prototype](https://www.figma.com/proto/wYnFaoUkrE0iLYE3mTryxS/KrishiBondhu-Web?node-id=6-591)
 
 ## Key Features
 
